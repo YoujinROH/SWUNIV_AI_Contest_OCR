@@ -1,0 +1,1 @@
+# SWUNIV_AI_Contest_OCR
